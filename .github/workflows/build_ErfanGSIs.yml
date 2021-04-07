@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/foles/official/RETCA/XT1980-3_FOLES_RETCA_10_QPFS30.130-15-10-13_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  ROM_NAME: moto z4 10
   TZ: Asia/Shanghai
 
 jobs:
